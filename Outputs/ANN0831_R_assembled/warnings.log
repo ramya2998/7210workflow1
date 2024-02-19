@@ -1,0 +1,8 @@
+
+=== Error correction and assembling warnings:
+ * 0:00:25.487    66M / 604M  WARN    General                 (kmer_coverage_model.cpp   : 327)   Valley value was estimated improperly, reset to 8
+ * 0:00:27.607    58M / 604M  WARN    General                 (simplification.cpp        : 504)   The determined erroneous connection coverage threshold may be determined improperly
+ * 0:00:22.439    51M / 967M  WARN    General                 (kmer_coverage_model.cpp   : 218)   Too many erroneous kmers, the estimates might be unreliable
+ * 0:00:22.704    51M / 967M  WARN    General                 (kmer_coverage_model.cpp   : 327)   Valley value was estimated improperly, reset to 4
+ * 0:00:18.916    64M / 806M  WARN    General                 (kmer_coverage_model.cpp   : 327)   Valley value was estimated improperly, reset to 2
+======= Warnings saved to /workspace/gitpod/nf-training/work/aa/b15235d6ffbdb044f5835075e795cd/ANN0831_R_assembled/warnings.log
